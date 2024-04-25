@@ -19,6 +19,7 @@
         <li>Redis</li>
         <li>Docker</li>
         <li>Git</li>
+        <li>Java(learning)</li>
     </h2></ul>
 
 ###
