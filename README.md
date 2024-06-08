@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I specialize in web development.</h2>
+<h2 align="left">I specialize in backend development.</h2>
 
 ###
 
