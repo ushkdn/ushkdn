@@ -15,7 +15,7 @@
         <li>C# / Java</li>
         <li>ASP.NET Core / Spring Boot</li>
         <li>Entity Framework Core / Hibernate</li>
-        <li>PostgreSQL / MS SQL</li>
+        <li>PostgreSQL / MS SQL / mongoDB</li>
         <li>Redis</li>
         <li>Docker</li>
         <li>Git</li>
