@@ -12,14 +12,13 @@
 
 <h2 align="left">My tech stack includes:</h2>
     <ul><h2>
-        <li>C#</li>
-        <li>ASP.NET Core</li>
-        <li>Entity Framework Core</li>
+        <li>C# / Java</li>
+        <li>ASP.NET Core / Spring Boot</li>
+        <li>Entity Framework Core / Hibernate</li>
         <li>PostgreSQL / MS SQL</li>
         <li>Redis</li>
         <li>Docker</li>
         <li>Git</li>
-        <li>Java</li>
     </h2></ul>
 
 ###
