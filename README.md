@@ -19,6 +19,7 @@
         <li>Redis</li>
         <li>Docker</li>
         <li>Git</li>
+        <li>Testing (xUnit, Mocking)</li>
     </h2></ul>
 
 ###
