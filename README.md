@@ -19,7 +19,7 @@
         <li>Redis</li>
         <li>Docker</li>
         <li>Git</li>
-        <RabbitMQ / MassTransit>
+        <li>RabbitMQ / MassTransit>
         <li>Testing (xUnit, Mocking)</li>
     </h2></ul>
 
