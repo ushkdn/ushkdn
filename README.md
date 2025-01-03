@@ -20,7 +20,7 @@
         <li>Docker</li>
         <li>Git</li>
         <li>RabbitMQ / MassTransit</li>
-        <li>Testing (xUnit, Mocking)</li>
+        <li>Testing (TDD, xUnit, Mocking)</li>
     </h2></ul>
 
 ###
