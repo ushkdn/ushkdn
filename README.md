@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=https://github.com/ushkdn/ushkdn/blob/main/sources/ichigo-kurosaki.gif" />
+  <img src="https://github.com/ushkdn/ushkdn/blob/main/sources/ichigo-kurosaki.gif" />
 </div>
 
 <h1 align="left">Hi there, I'm Daniil 👋</h1>
