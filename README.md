@@ -18,7 +18,7 @@
     <ul><h2>
         <li>C#</li>
         <li>ASP.NET Core / .NET / .NET Framework</li>
-        <li>Entity Framework Core / Dapper</li>
+        <li>Entity Framework Core / Dapper / DbUp</li>
         <li>PostgreSQL / MS SQL / mongoDB</li>
         <li>Redis</li>
         <li>Docker</li>
